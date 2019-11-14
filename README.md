@@ -1,4 +1,3 @@
-##### Beer-Project
 
 ## This project is to recommend beers based on important features. 
 ## The data consists of columns of following features:
