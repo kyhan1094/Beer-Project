@@ -10,7 +10,7 @@
 
 This recommendation system will take two inputs from the users (desired beer ABV and prefer beer style), then it will return top 5 recommended beers by the closed ABV of user input from user's beer style choices. 
 
-The engine uses the sub dataset that is filtered by 5/5 rated on all categories: taste, aroma, appearance, palette and overall
+The engine uses the sub dataset that is filtered by 5/5 rated on all review categories: taste, aroma, appearance, palette and overall
 
 **Example output:**
 
