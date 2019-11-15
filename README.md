@@ -13,6 +13,7 @@ This recommendation system will return two inputs from the users (desired beer A
 The engine uses the sub dataset that is filtered by 5/5 rated on all categories: taste, aroma, appearance, palette and overall
 
 **Example output:**
+
 beer_recommand(10,'American IPA')
 
 I would recommand following 5 beers based on what you typed:  
