@@ -16,5 +16,5 @@ The engine uses the sub dataset that is filtered by 5/5 rated on all review cate
 
 beer_recommand(10,'American IPA')
 
-I would recommand following 5 beers based on what you typed:  
+I would recommend following 5 beers based on what you typed:  
 ['DFG IPA', 'Fritzkrieg Hop IPA', 'Jai Alai IPA - Cedar Aged (Humidor Series)', 'Jai Alai IPA', 'Jai Alai IPA - White Oak']
